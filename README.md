@@ -23,3 +23,14 @@ make flash
 
 ```
 
+If you want to see the boilperplate output; you can use your favorite *Serial 
+Console*. For example:
+
+```bash
+
+screen /dev/ttyUSB0 115200
+
+```
+
+**NOTICE:** The baud rate value is important to be `115200`.
+
