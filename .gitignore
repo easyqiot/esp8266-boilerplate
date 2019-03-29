@@ -1,0 +1,5 @@
+.output
+
+# vim
+.*.sw[po]
+.ropeproject
